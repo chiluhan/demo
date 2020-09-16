@@ -1,160 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="332e4405-5d8a-4911-bc4e-03b357169cb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/day02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/.idea/day03.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/migrations/0002_auto_20200911_0643.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/migrations/0003_auto_20200911_0647.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/migrations/0004_author.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/bookstore/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/mysite3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/mysite3/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/mysite3/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day03/mysite3/mysite3/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/.idea/day04.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/migrations/0002_auto_20200911_0643.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/migrations/0003_auto_20200911_0647.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/migrations/0004_author.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/templates/bookstore/all_book.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/bookstore/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/mysite3/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/mysite3/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/mysite3/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day04/mysite3/mysite3/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/.idea/day05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/migrations/0002_auto_20200912_1508.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/bookstore/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mtm/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mysite5/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mysite5/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mysite5/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/mysite5/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/otm/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day05/mysite5/oto/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/.idea/day06.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/mysite6/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/mysite6/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/mysite6/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/mysite6/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/mysite6/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/net_note/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/net_note/net_note/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/net_note/net_note/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/net_note/net_note/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/mysite6/net_note/net_note/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/.idea/net_note.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/net_note/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/net_note/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/net_note/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/net_note/wsgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/templates/note/add_note.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/note/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/templates/user/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/templates/user/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day06/net_note/user/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/django教程day07.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/.idea/mysite7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/manage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/middleware/mymiddleware.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/mysite7/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/mysite7/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/mysite7/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/mysite7/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../第四阶段/django/day07/mysite7/mysite7/wsgi.py" beforeDir="false" />
-    </list>
+    <list default="true" id="332e4405-5d8a-4911-bc4e-03b357169cb8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github_code/第一阶段/day02" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../第四阶段/day08" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -274,6 +121,7 @@
       <updated>1600167852433</updated>
       <workItem from="1600167853872" duration="1550000" />
       <workItem from="1600171397507" duration="1276000" />
+      <workItem from="1600222716971" duration="63000" />
     </task>
     <servers />
   </component>
@@ -285,7 +133,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
