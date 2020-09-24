@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="/static/js/jquery-1.11.3.js"></script>
+</head>
+<body>
+用户:<input id="Text1" onblur="validateloginname()"/>
+<script>
+    {#  当函数执行时，保证文档的所有dom元素加载成功  #}
+    $(function () {
+        $('#Text1').blur(function () {
+            $.ajax({
+                url: '/ajax_js/xhr_get_server',
+                type: 'GET',
+                success: function (res) {
+                    $('#td1').html(res);
+                }
+            })
+        })
+    })
+</script>
+    <td id="td1"></td>
+</body>
+</html>
